@@ -300,7 +300,7 @@ SDK之后，通过代理方法\ ``call_gdp_function(funcName, params, callback)`
 
 验证服务地址：https://pay.337.com/payelex/api/callback/verify.php
 
-CA文件（PHP可能需要）：http://doc.xingcloud.com/download/attachments/4195503/verisign\_ca.crt?version=1&modificationDate=1327048502000
+CA文件（PHP可能需要）：http://elexpublish.googlecode.com/files/verisign_ca.crt
 
 接受请求方式：POST/GET
 
